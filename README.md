@@ -1,5 +1,5 @@
 # test-burger-api
-<h1>My Burger API</h1>
+<h3>My Burger API</h3>
 
 <img src="https://media.oneman.gr/onm-images/burger-38.jpg">
 
