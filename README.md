@@ -1,5 +1,5 @@
 # test-burger-api
-My Burger Api
+My Burger API
 
 Live API url: https://burger-api-theo.herokuapp.com/burgers
 
